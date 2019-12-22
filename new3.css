@@ -1,0 +1,13 @@
+body {
+ background-image: url("s2.jpg");
+ background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+
+}
+h1{
+  color: white;
+}
+div.new{
+  background-color: #333333;
+}
